@@ -1,6 +1,6 @@
 # Rainbow 1-factorizations of complete graphs
 
-Sage code for:
+Sage notebooks and files for:
 - making cyclic extended Skolem sequences
 - 1-rotational 1-factorizations of complete graphs
 - exploratory analysis of rainbow 1-factorizations
