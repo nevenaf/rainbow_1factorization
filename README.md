@@ -6,4 +6,4 @@ Sage code for:
 - exploratory analysis of rainbow 1-factorizations
 
 Sage is a mathematical program built on Python. Here we use
-its libraries for manipulating graphs, cyclic groups and finate fields.
+its libraries for manipulating graphs, cyclic groups and finite fields.
